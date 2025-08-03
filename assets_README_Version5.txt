@@ -1,0 +1,13 @@
+Put your images here:
+- player.png        — 32x32 sprite sheet (walk/idle/attack)
+- enemy.png         — 32x32 sprite sheet
+- npc.png           — 32x32 sprite sheet
+- key.png           — 32x32 icon
+- heart.png         — 32x32 icon
+- potion.png        — 32x32 icon
+- block.png         — 32x32 icon
+- questitem.png     — 32x32 icon
+- switch.png        — 32x32 icon
+- door.png          — 32x32 icon
+- tiles.png         — map tileset
+- map.json          — Tiled map
